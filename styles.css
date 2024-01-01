@@ -732,9 +732,9 @@ header.sticky ul li a{
                 top: -30px;
                 color: #797978;
         }
-
-
-
+        .contact{
+                max-height: 76vh;
+        }
 }
 
 @media(max-width: 991px){
@@ -833,6 +833,9 @@ header.sticky ul li a{
                 justify-content: center;
                 
         }
+        .contact{
+                max-height: 121vh;
+        }
 }
 
 @media (max-width :600px){
@@ -868,6 +871,8 @@ header.sticky ul li a{
                 font-weight: 1200;
                
         }
-        
+        .contact{
+                max-height: 128vh;
+        }
 
 }
