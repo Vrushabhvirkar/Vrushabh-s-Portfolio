@@ -213,12 +213,12 @@ header.sticky ul li a{
 
 .profilepic{
         border-radius: 50%;
-        max-width: 100%;
+        max-width: 81%;
         box-shadow: 4px 7px 6px rgb(179, 171, 171);
 }
 
 .info{
-        font-size: 16px;
+        font-size: 16px solid;
         text-decoration: none;
         
 }
