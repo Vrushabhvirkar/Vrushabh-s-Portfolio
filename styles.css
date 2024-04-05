@@ -290,7 +290,7 @@ header.sticky ul li a{
         /* margin-top: -80px;
         margin-bottom: 30px; */
         background-size: cover;
-        background-image: url('whitebg.jpg');
+        background-image: url('icons1/whitebg.jpg');
         background-position: center;
         
 }
@@ -306,7 +306,7 @@ header.sticky ul li a{
         /* background-image: linear-gradient(to bottom, #ffffff, #f4f4f4, #e9e9e9, #dedede, #d3d3d3); */
         /* background-image: linear-gradient(to bottom, #ffffff, #f8f8f8, #f2f2f2, #ebebeb, #e5e5e5); */
         background-size: cover;
-        background-image: url('whitebg.jpg');
+        background-image: url('icons1/whitebg.jpg');
         background-position: center;
         
 }
@@ -772,7 +772,7 @@ header.sticky ul li a{
         .toggle{
                 width: 40px;
                 height: 40px;
-                background: url("menu.png");
+                background: url("icons1/menu.png");
                 background-position: center;
                 background-repeat: no-repeat;
                 background-size: 30px;
@@ -780,7 +780,7 @@ header.sticky ul li a{
         }
 
         .toggle.active{
-                background: url("close.png");
+                background: url("icons1/close.png");
                 background-position: center;
                 background-repeat: no-repeat;
                 background-size: 25px;
