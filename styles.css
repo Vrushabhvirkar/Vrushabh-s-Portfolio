@@ -884,6 +884,7 @@ header.sticky ul li a{
         header,
         header.sticky{
                 padding: 10px 10px;
+                font-size :14px;
         }
 
         .banner{
@@ -891,7 +892,7 @@ header.sticky ul li a{
         }
 
         section{
-                padding: 50px 0px;
+                padding: 50px 10px;
         }
          .wrapper ul li{
                 width: 100%;
