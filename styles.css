@@ -879,3 +879,25 @@ header.sticky ul li a{
         }
 
 }
+
+@media (max-width :317px){
+        header,
+        header.sticky{
+                padding: 10px 10px;
+        }
+
+        .banner{
+                padding: 100px 10px 50px;
+        }
+
+        section{
+                padding: 50px 10px;
+        }
+         .wrapper ul li{
+                width: 100%;
+                margin-bottom:30px;
+                 transform:none;
+                 float:none;
+                 clear:both;
+        }
+        
