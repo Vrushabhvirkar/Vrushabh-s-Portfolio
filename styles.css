@@ -679,6 +679,13 @@ header.sticky ul li a{
         color:#111
 }
 
+.wrapper ul li{
+                width: 100%;
+                margin-bottom: 50px;
+                position: relative;
+        }
+
+
 @media only screen and (min-width:768px){
 
         .wrapper::before{
@@ -733,7 +740,8 @@ header.sticky ul li a{
                 color: #797978;
         }
         .contact{
-                max-height: 76vh;
+                  max-height: none;
+/*                 max-height: 76vh; */
         }
 }
 
@@ -746,12 +754,16 @@ header.sticky ul li a{
 
         .menu{
                 position: fixed;
-                top: 100px;
-                left: -100%;
+                 top: 0;
+                left: 0;
+/*                 top: 100px;
+                left: -100%; */
                 display: block;
-                padding: 100px 50px;
+                padding : 20px;
+/*                 padding: 100px 50px; */
                 text-align: center;
-                width: 100%;
+/*                 width: 100%; */
+                 width: 100vw;
                 height: 100vh;
                 background: #fff;
                 transition: 0.5s;
@@ -834,7 +846,8 @@ header.sticky ul li a{
                 
         }
         .contact{
-                max-height: 121vh;
+                max-height: none;
+/*                 max-height: 121vh; */
         }
 }
 
@@ -872,7 +885,8 @@ header.sticky ul li a{
                
         }
         .contact{
-                max-height: 128vh;
+                max-height: none;
+/*                 max-height: 128vh; */
         }
 
 }
