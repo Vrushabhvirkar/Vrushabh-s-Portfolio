@@ -739,8 +739,8 @@ header.sticky ul li a{
                 color: #797978;
         }
         .contact{
-                  max-height: none;
-/*                 max-height: 76vh; */
+/*                   max-height: none; */
+                max-height: 76vh;
         }
 }
 
@@ -753,20 +753,20 @@ header.sticky ul li a{
 
         .menu{
                 position: fixed;
-                 top: 0;
-                left: -100;
-/*                 top: 100px;
-                left: -100%; */
+/*                  top: 0;
+                left: -100; */
+                top: 100px;
+                left: -100%;
                 display: block;
-                padding : 20px;
-/*                 padding: 100px 50px; */
+/*                 padding : 20px; */
+                padding: 100px 50px;
                 text-align: center;
 /*                 width: 100%; */
                  width: 100vw;
                 height: 100vh;
                 background: #fff;
-                transition: left 0.5s;
-/*                 transition: 0.5s; */
+/*                 transition: left 0.5s; */
+                transition: 0.5s;
                 z-index: 999;
                 border-top: 1px solid rgba(0,0,0,0.2);
         }
@@ -846,8 +846,8 @@ header.sticky ul li a{
                 
         }
         .contact{
-                max-height: none;
-/*                 max-height: 121vh; */
+/*                 max-height: none; */
+                max-height: 121vh;
         }
 }
 
@@ -885,8 +885,7 @@ header.sticky ul li a{
                
         }
         .contact{
-                max-height: none;
-/*                 max-height: 128vh; */
+                max-height: 128vh;
         }
 
 }
