@@ -800,6 +800,7 @@ header.sticky ul li a{
         }
         .banner{
                 padding: 150px 50px 100px;
+                width:100vw;
         }
 
         .banner h2{
